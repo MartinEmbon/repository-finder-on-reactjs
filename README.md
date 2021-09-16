@@ -1,3 +1,11 @@
+## PROJECT FOR HIRING CODERS VTEX BOOTCAMP
+### JUNE 2021
+
+This is a repository finder app made with ReactJS for the Gama Academy & HC bootcamp.
+
+### Thank you and hope you`ll enjoy!
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
